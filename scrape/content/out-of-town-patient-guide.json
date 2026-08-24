@@ -1,0 +1,266 @@
+{
+  "path": "/out-of-town-patient-guide",
+  "slug": "out-of-town-patient-guide",
+  "title": "Out-of-Town Patient Guide | Cosmetic Surgery Travel | Tampa Bay Body Sculpting",
+  "description": "Traveling to Tampa for cosmetic surgery? Learn how to plan your trip, recovery, and return home with confidence",
+  "ogImage": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/shutterstock_263340653-b2373a9.jpg",
+  "h1": "traveling to tampa for surgery",
+  "hero": null,
+  "sections": [
+    {
+      "type": "section",
+      "heading": null,
+      "level": null,
+      "blocks": [
+        {
+          "type": "h4",
+          "text": "Traveling to Tampa for Surgery"
+        },
+        {
+          "type": "p",
+          "text": "At Tampa Bay Body Sculpting, we work with patients from across Florida and throughout the United States who travel to Tampa for cosmetic surgery. Our goal is to make the process as simple, comfortable, and stress-free as possible by helping you prepare for every step of your journey.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "From your initial virtual consultation through recovery and your return home, our team is here to help guide you through the process.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "out of town patient guide",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h4",
+          "text": "Schedule Your Consultation"
+        },
+        {
+          "type": "h4",
+          "text": "Complete Required Medical Clearance"
+        },
+        {
+          "type": "p",
+          "text": "Many patients begin with a virtual consultation to discuss their goals, review photos, and receive personalized procedure recommendations from an experienced provider within our network.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Depending on your procedure, medical history, and provider requirements, pre-operative testing or medical clearance may be required before surgery.",
+          "links": []
+        },
+        {
+          "type": "h4",
+          "text": "Plan Your Recovery"
+        },
+        {
+          "type": "p",
+          "text": "Arrange for adequate time away from work and personal obligations. Recovery timelines vary depending on the procedure performed.",
+          "links": []
+        },
+        {
+          "type": "h4",
+          "text": "Book Travel Early"
+        },
+        {
+          "type": "p",
+          "text": "We recommend securing flights and accommodations as soon as your surgery date is confirmed to ensure availability and pricing.",
+          "links": []
+        },
+        {
+          "type": "h4",
+          "text": "What to Bring"
+        },
+        {
+          "type": "h4",
+          "text": "Arriving in Tampa"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Government-issued photo identification",
+            "Comfortable, loose-fitting clothing",
+            "Slip-on shoes",
+            "Medications",
+            "Compression garments if instructed"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "We recommend arriving at least one day before your scheduled procedure whenever possible.",
+            "Patients commonly fly into:",
+            "Tampa International Airport (TPA)",
+            "St. Pete-Clearwater International Airport (PIE)"
+          ]
+        },
+        {
+          "type": "h4",
+          "text": "Surgery Day"
+        },
+        {
+          "type": "h4",
+          "text": "Recovery After Surgery"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Follow all instructions provided by your surgical team",
+            "Wear comfortable clothing",
+            "Arrange transportation to and from the surgical facility",
+            "Have a responsible adult available to assist you following surgery"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Follow all post-operative instructions",
+            "Wear compression garments as directed",
+            "Stay hydrated",
+            "Walk frequently as recommended",
+            "Attend all follow-up appointments",
+            "Contact your provider with any questions or concerns"
+          ]
+        },
+        {
+          "type": "h4",
+          "text": "Traveling Home"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Obtain clearance from your provider",
+            "Follow all travel recommendations",
+            "Continue wearing compression garments if instructed",
+            "Stay hydrated throughout your trip",
+            "Walk periodically during longer flights or car rides"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Frequently Asked Questions",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Please reach us at info@tampabaybodysculpting.com if you cannot find an answer to your question.",
+          "links": [
+            {
+              "href": "mailto:info@tampabaybodysculpting.com",
+              "text": "info@tampabaybodysculpting.com"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The recommended length of stay varies depending on the procedure and your provider's instructions. Your surgical team will advise you on the appropriate recovery period before traveling home.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Most providers require patients to have a responsible adult available during the initial recovery period. We recommend arranging for a companion whenever possible.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Yes. Many patients begin the process with a virtual consultation before traveling to Tampa.",
+          "links": [
+            {
+              "href": "https://hipaa.jotform.com/212097230845050",
+              "text": "virtual consultation"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Travel recommendations vary depending on the procedure performed and your recovery progress. Your provider will advise you on when it is safe to fly.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Most procedures require follow-up visits to monitor healing and recovery. Your provider will discuss your personalized follow-up schedule.",
+          "links": []
+        },
+        {
+          "type": "h4",
+          "text": "Why Patients Choose Tampa Bay Body Sculpting"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Access to experienced providers within our trusted network",
+            "Personalized guidance throughout the process",
+            "Virtual consultation options",
+            "Support for out-of-town patients",
+            "Transparent communication and planning",
+            "Assistance coordinating your cosmetic surgery journey"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "out of town patient guide",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Out of Town Patient Guide (pdf)",
+          "links": []
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "ctas": [
+    {
+      "href": "https://hipaa.jotform.com/212097230845050",
+      "text": "virtual consultation"
+    },
+    {
+      "href": "https://form.jotform.com/261329129717057",
+      "text": "contact us"
+    }
+  ],
+  "testimonials": [],
+  "images": [
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/17-6f8c86a.png/:/cr=t:30%25,l:0%25,w:100%25,h:40%25/rs=w:600,h:300,cg:true/fx-gs",
+      "alt": "",
+      "localSrc": "/images/17-6f8c86a.png"
+    }
+  ],
+  "routeKey": "out-of-town-patient-guide",
+  "faqs": [
+    {
+      "q": "How long should I stay in Tampa after surgery?",
+      "a": "The recommended length of stay varies depending on the procedure and your provider's instructions. Your surgical team will advise you on the appropriate recovery period before traveling home."
+    },
+    {
+      "q": "Can I travel alone?",
+      "a": "Most providers require patients to have a responsible adult available during the initial recovery period. We recommend arranging for a companion whenever possible."
+    },
+    {
+      "q": "Are virtual consultations available?",
+      "a": "Yes. Many patients begin the process with a virtual consultation before traveling to Tampa."
+    },
+    {
+      "q": "When can I fly after surgery?",
+      "a": "Travel recommendations vary depending on the procedure performed and your recovery progress. Your provider will advise you on when it is safe to fly."
+    },
+    {
+      "q": "Will I need follow-up appointments?",
+      "a": "Most procedures require follow-up visits to monitor healing and recovery. Your provider will discuss your personalized follow-up schedule."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "tbbs-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --port 3010",
+    "build": "next build",
+    "start": "next start --port 3010",
+    "lint": "eslint",
+    "audit:links": "node scripts/audit-links.mjs",
+    "audit:images": "node scripts/audit-images.mjs",
+    "audit:links:http": "node scripts/audit-links-http.mjs",
+    "audit": "npm run audit:links && npm run audit:images",
+    "validate:redirects": "node scripts/validate-redirects.mjs"
+  },
+  "dependencies": {
+    "next": "^16.3.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.2",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

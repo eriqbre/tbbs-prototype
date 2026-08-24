@@ -1,0 +1,102 @@
+{
+  "path": "/breast-rejuvenation",
+  "slug": "breast-rejuvenation",
+  "title": "Breast Rejuvenation",
+  "description": "Explore our breast rejuvenation procedures for a youthful breast appearance. Tailored treatments including augmentation and lifts. Book your consultation!",
+  "ogImage": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/shutterstock_263340653-b2373a9.jpg",
+  "h1": "Breast Rejuvenation",
+  "hero": {
+    "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/blob-d9d6b23.png/:/cr=t:6.7%25,l:0%25,w:100%25,h:40%25/rs=w:600,h:300,cg:true",
+    "alt": "Close-up of a person wearing a white bikini top."
+  },
+  "sections": [
+    {
+      "type": "section",
+      "heading": null,
+      "level": null,
+      "blocks": [
+        {
+          "type": "h4",
+          "text": "Breast Rejuvenation in Tampa Bay"
+        },
+        {
+          "type": "p",
+          "text": "Breast Rejuvenation is a customized cosmetic breast procedure designed to restore a more youthful, refreshed breast appearance. Depending on your goals, breast rejuvenation may include procedures such as Breast Augmentation, Breast Lift, Implant Exchange, or Fat Transfer to improve breast shape, volume, symmetry, and overall contour.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Pregnancy, breastfeeding, weight changes, and aging can all contribute to loss of breast volume, sagging, or changes in breast shape over time. Breast Rejuvenation procedures are personalized to help restore fullness, improve firmness, and create balanced, natural-looking feminine results.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "At Tampa Bay Body Sculpting, we work with a carefully selected network of Board-Certified Cosmetic Surgeons in Florida experienced in advanced breast enhancement and breast rejuvenation procedures. Every treatment plan is tailored to your anatomy, desired shape, and aesthetic goals.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Ready to take the next step?",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Start Your Complimentary Virtual Consultation",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Frequently Asked Questions",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Please reach us at info@tampabaybodysculpting.com if you cannot find an answer to your question.",
+          "links": [
+            {
+              "href": "mailto:info@tampabaybodysculpting.com?subject=Virtual%20Consultation",
+              "text": "info@tampabaybodysculpting.com"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Women experiencing loss of breast volume, sagging, asymmetry, or changes after pregnancy, weight loss, or aging may be good candidates for Breast Rejuvenation procedures.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Yes. Procedures such as a Breast Lift are commonly used to improve breast position and create a firmer, more youthful appearance.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Recovery varies depending on the procedures performed. Most patients experience swelling, soreness, and tightness initially, with continued healing over several weeks.",
+          "links": []
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "ctas": [
+    {
+      "href": "https://hipaa.jotform.com/261329129717057",
+      "text": "contact us"
+    },
+    {
+      "href": "https://hipaa.jotform.com/212097230845050",
+      "text": "START CONSULTATION"
+    }
+  ],
+  "testimonials": [],
+  "images": [
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/blob-d9d6b23.png/:/cr=t:6.7%25,l:0%25,w:100%25,h:40%25/rs=w:600,h:300,cg:true",
+      "alt": "Close-up of a person wearing a white bikini top."
+    }
+  ]
+}

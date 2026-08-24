@@ -1,0 +1,102 @@
+{
+  "path": "/labiaplasty",
+  "slug": "labiaplasty",
+  "title": "Labiaplasty",
+  "description": "Enhance your confidence with Labiaplasty, a cosmetic vaginal rejuvenation procedure by Board-Certified Cosmetic Surgeons in Tampa Bay.",
+  "ogImage": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/shutterstock_263340653-b2373a9.jpg",
+  "h1": "Labiaplasty",
+  "hero": {
+    "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/blob-832e2e0.png/:/rs=w:600,h:300,cg:true,m/cr=w:600,h:300",
+    "alt": "A woman in a bikini stands on a sandy beach looking at the ocean."
+  },
+  "sections": [
+    {
+      "type": "section",
+      "heading": null,
+      "level": null,
+      "blocks": [
+        {
+          "type": "h4",
+          "text": "Labiaplasty in Tampa Bay"
+        },
+        {
+          "type": "p",
+          "text": "Labiaplasty is a cosmetic vaginal rejuvenation procedure designed to reshape and reduce excess labial tissue for improved comfort, symmetry, and appearance. This procedure can help enhance confidence while reducing irritation or discomfort caused by enlarged or uneven labia.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Women may consider Labiaplasty for cosmetic reasons, discomfort during exercise or intimacy, or changes related to aging, pregnancy, or genetics. The procedure is customized to each patient\u2019s anatomy and aesthetic goals to create natural-looking, feminine results.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "At Tampa Bay Body Sculpting, we work with a carefully selected network of Board-Certified Cosmetic Surgeons in Florida experienced in advanced feminine rejuvenation procedures. Every treatment plan is personalized to help you feel comfortable, confident, and informed throughout the process.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Ready to take the next step?",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Start Your Complimentary Virtual Consultation",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Frequently Asked Questions",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Please reach us at info@tampabaybodysculpting.com if you cannot find an answer to your question.",
+          "links": [
+            {
+              "href": "mailto:info@tampabaybodysculpting.com?subject=Virtual%20Consultation",
+              "text": "info@tampabaybodysculpting.com"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Women experiencing discomfort, irritation, or cosmetic concerns related to enlarged or uneven labial tissue may be good candidates for Labiaplasty. Ideal candidates are in good overall health and looking for improved comfort and confidence.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Women choose Labiaplasty for a variety of reasons, including improved comfort, enhanced confidence, cosmetic concerns, or irritation during exercise, clothing, or intimacy.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Yes. The procedure is customized to your anatomy and goals to create smooth, balanced, natural-looking feminine results.",
+          "links": []
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "ctas": [
+    {
+      "href": "https://hipaa.jotform.com/261329129717057",
+      "text": "contact us"
+    },
+    {
+      "href": "https://hipaa.jotform.com/261329129717057",
+      "text": "START CONSULTATION"
+    }
+  ],
+  "testimonials": [],
+  "images": [
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/blob-832e2e0.png/:/rs=w:600,h:300,cg:true,m/cr=w:600,h:300",
+      "alt": "A woman in a bikini stands on a sandy beach looking at the ocean."
+    }
+  ]
+}

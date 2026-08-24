@@ -1,0 +1,65 @@
+{
+  "path": "/breast-surgery-gallery",
+  "slug": "breast-surgery-gallery",
+  "title": "Breast Surgery Gallery",
+  "description": "Explore our breast surgery gallery at Tampa Bay Body Sculpting and schedule your complimentary consultation today!",
+  "ogImage": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/shutterstock_263340653-b2373a9.jpg",
+  "h1": "breast surgery gallery",
+  "hero": null,
+  "sections": [
+    {
+      "type": "section",
+      "heading": "Ready to take the next step?",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Start Your Complimentary Virtual Consultation",
+          "links": []
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "ctas": [
+    {
+      "href": "https://form.jotform.com/212097230845050",
+      "text": "start consultation"
+    }
+  ],
+  "testimonials": [],
+  "images": [
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/1%202-0e1690c.jpg/:/rs=w:370,cg:true,m",
+      "alt": "Before and after images of breast augmentation surgery."
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/52829D2A-5744-4278-8705-B5758FF9B42C_L0_001-3_.jpg/:/rs=w:370,cg:true,m",
+      "alt": "Before and after breast augmentation photos."
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/IMG_1019.jpg/:/rs=w:370,cg:true,m",
+      "alt": "Before and after photos of breast augmentation surgery showing enhanced breast size."
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/4.jpg/:/rs=w:370,cg:true,m",
+      "alt": "Before and after photo of a woman&#39;s body transformation showing enhanced curves and toned abdomen."
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/9.jpg/:/rs=w:370,cg:true,m",
+      "alt": "Before and after breast augmentation comparison showing enhanced volume and shape."
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/8.jpg/:/rs=w:370,cg:true,m",
+      "alt": "Before and after breast augmentation results."
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/3.jpg/:/rs=w:370,cg:true,m",
+      "alt": "Before and after body contouring and breast enhancement surgery."
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/6.jpg/:/rs=w:370,cg:true,m",
+      "alt": "Before and after body transformation showing enhanced figure."
+    }
+  ]
+}

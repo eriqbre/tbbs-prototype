@@ -1,0 +1,102 @@
+{
+  "path": "/breast-revision",
+  "slug": "breast-revision",
+  "title": "Breast Revision",
+  "description": "Expert Breast Revision Surgery in Tampa Bay to enhance your natural beauty and restore confidence. Book your consultation today!",
+  "ogImage": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/shutterstock_263340653-b2373a9.jpg",
+  "h1": "Breast Revision Surgery",
+  "hero": {
+    "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/blob-2412f2d.png/:/cr=t:12.63%25,l:0%25,w:100%25,h:74.99%25/rs=w:600,h:300,cg:true",
+    "alt": "Black and white image of a woman covering her breasts with surgical markings around them."
+  },
+  "sections": [
+    {
+      "type": "section",
+      "heading": null,
+      "level": null,
+      "blocks": [
+        {
+          "type": "h4",
+          "text": "Breast Revision Surgery in Tampa Bay"
+        },
+        {
+          "type": "p",
+          "text": "Breast Revision Surgery is a customized procedure designed to correct, improve, or restore the results of a previous breast surgery. This procedure may address concerns related to breast implants, asymmetry, implant position, capsular contracture, changes in breast shape, or overall appearance while helping achieve more balanced, natural-looking feminine results.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Women choose Breast Revision Surgery for many reasons, including updating older implants, correcting cosmetic concerns, improving comfort, or enhancing the results of a previous Breast Augmentation or Breast Lift. Depending on your goals, Breast Revision may also be combined with Implant Exchange, a Breast Lift, or Fat Transfer to further refine breast shape and contour.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "At Tampa Bay Body Sculpting, we work with a carefully selected network of Board-Certified Cosmetic Surgeons in Florida experienced in advanced breast revision procedures. Every treatment plan is personalized based on your anatomy, previous surgery history, and desired aesthetic goals.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Ready to take the next step?",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Start Your Complimentary Virtual Consultation",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Frequently Asked Questions",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Please reach us at info@tampabaybodysculpting.com if you cannot find an answer to your question.",
+          "links": [
+            {
+              "href": "mailto:info@tampabaybodysculpting.com?subject=Virtual%20Consultation",
+              "text": "info@tampabaybodysculpting.com"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Women looking to improve or correct the results of a previous breast surgery may be good candidates for Breast Revision Surgery. Ideal candidates are in good overall health and have realistic expectations about their results.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Yes. Breast Revision Surgery may include Implant Exchange with new saline or silicone breast implants depending on your goals and treatment plan.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Common reasons include changing implant size, correcting asymmetry, improving implant position, addressing capsular contracture, or enhancing the appearance of previous breast surgery results.",
+          "links": []
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "ctas": [
+    {
+      "href": "https://hipaa.jotform.com/261329129717057",
+      "text": "contact us"
+    },
+    {
+      "href": "https://hipaa.jotform.com/212097230845050",
+      "text": "START CONSULTATION"
+    }
+  ],
+  "testimonials": [],
+  "images": [
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/blob-2412f2d.png/:/cr=t:12.63%25,l:0%25,w:100%25,h:74.99%25/rs=w:600,h:300,cg:true",
+      "alt": "Black and white image of a woman covering her breasts with surgical markings around them."
+    }
+  ]
+}

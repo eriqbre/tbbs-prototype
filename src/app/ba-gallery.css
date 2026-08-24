@@ -1,0 +1,223 @@
+
+/* Before & after gallery (female gallery and similar) */
+.ba-gallery {
+  padding: 3.5rem 0 4rem;
+  background: linear-gradient(180deg, #080808 0%, #050505 100%);
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.ba-gallery-header {
+  max-width: 42rem;
+  margin-bottom: 2.5rem;
+}
+
+.ba-gallery-title {
+  font-family: var(--font-display);
+  font-size: clamp(1.75rem, 3.2vw, 2.35rem);
+  font-weight: 500;
+  color: #fff;
+  line-height: 1.15;
+}
+
+.ba-gallery-intro {
+  margin-top: 0.85rem;
+  font-size: 1rem;
+  line-height: 1.65;
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.ba-gallery-disclaimer {
+  margin-top: 1rem;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: var(--color-text-dim);
+}
+
+.ba-eyebrow {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  margin-bottom: 0.75rem;
+}
+
+.ba-gallery-cases {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+  align-items: center;
+}
+
+.ba-case {
+  width: 100%;
+  max-width: 520px;
+  padding: 1rem 1.1rem 1.15rem;
+  border-radius: 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.02);
+  box-shadow: 0 16px 32px rgba(0, 0, 0, 0.3);
+}
+
+@media (min-width: 768px) {
+  .ba-case {
+    max-width: 560px;
+    padding: 1.15rem 1.25rem 1.35rem;
+  }
+}
+
+@media (min-width: 1100px) {
+  .ba-gallery-cases {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem 1.25rem;
+    align-items: stretch;
+    max-width: 920px;
+    margin-inline: auto;
+  }
+
+  .ba-case {
+    max-width: none;
+  }
+}
+
+.ba-case-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.ba-case-index {
+  font-family: var(--font-ui);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+}
+
+.ba-case-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  position: relative;
+  border-radius: 0.65rem;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.ba-case-divider {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  transform: translateX(-50%);
+  background: linear-gradient(180deg, transparent, var(--color-accent), transparent);
+  z-index: 2;
+  pointer-events: none;
+}
+
+.ba-panel {
+  position: relative;
+  margin: 0;
+  background: #0a0a0a;
+}
+
+.ba-panel--before {
+  border-right: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.ba-tag {
+  position: absolute;
+  top: 0.65rem;
+  left: 0.65rem;
+  z-index: 3;
+  font-family: var(--font-ui);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  padding: 0.35rem 0.65rem;
+  border-radius: 999px;
+  pointer-events: none;
+}
+
+.ba-panel--before .ba-tag {
+  background: rgba(0, 0, 0, 0.72);
+  color: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.ba-panel--after .ba-tag {
+  background: rgba(101, 235, 201, 0.15);
+  color: var(--color-accent);
+  border: 1px solid rgba(101, 235, 201, 0.45);
+}
+
+.ba-panel-frame {
+  position: relative;
+  aspect-ratio: 3 / 4;
+  overflow: hidden;
+}
+
+.ba-split-img {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 200%;
+  max-width: none;
+  object-fit: cover;
+}
+
+.ba-split-img--before {
+  left: 0;
+  object-position: left center;
+}
+
+.ba-split-img--after {
+  left: -100%;
+  object-position: right center;
+}
+
+.ba-case-caption {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: rgba(255, 255, 255, 0.7);
+  padding-left: 0.15rem;
+}
+
+.ba-case-pair--single .ba-panel-frame--wide {
+  aspect-ratio: 16 / 10;
+}
+
+.ba-case-pair--single .ba-panel--full {
+  grid-column: 1 / -1;
+}
+
+@media (max-width: 540px) {
+  .ba-case-pair {
+    grid-template-columns: 1fr;
+  }
+
+  .ba-case-divider {
+    left: 0;
+    right: 0;
+    top: 50%;
+    bottom: auto;
+    width: auto;
+    height: 2px;
+    transform: translateY(-50%);
+  }
+
+  .ba-panel--before {
+    border-right: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "path": "/male-surgery-gallery",
+  "slug": "male-surgery-gallery",
+  "title": "Male Surgery Gallery",
+  "description": "Explore the male surgery gallery at Tampa Bay Body Sculpting, showcasing transformative male cosmetic surgery options.",
+  "ogImage": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/shutterstock_263340653-b2373a9.jpg",
+  "h1": "male surgery gallery",
+  "hero": null,
+  "sections": [
+    {
+      "type": "section",
+      "heading": "Ready to take the next step?",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Start Your Complimentary Virtual Consultation",
+          "links": []
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "ctas": [
+    {
+      "href": "https://form.jotform.com/212097230845050",
+      "text": "start consultation"
+    }
+  ],
+  "testimonials": [],
+  "images": [
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/10-c0b34ec.png/:/rs=w:370,cg:true,m",
+      "alt": "Black and white photo of a shirtless man flexing his arms."
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/8-d1bf268.png/:/rs=w:370,cg:true,m",
+      "alt": "Before and after body sculpting showing a toned abdomen transformation."
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/1-d3c174b.png/:/cr=t:0%25,l:0%25,w:76.67%25,h:76.67%25/rs=w:370,cg:true,m",
+      "alt": "Before and after body sculpting results showing reduced back fat."
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/2-1cf1ca8.png/:/rs=w:370,cg:true,m",
+      "alt": "Shirtless man in black shorts posing outdoors against a wooden fence."
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/3-528173a.png/:/rs=w:370,cg:true,m",
+      "alt": "Before and after body sculpting treatment showing abdominal changes."
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/5-20108ca.png/:/rs=w:370,cg:true,m",
+      "alt": "Before and after body sculpting transformation on the abdomen."
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/6-20ae7ce.png/:/rs=w:370,cg:true,m",
+      "alt": "Toned male torso with ab definition and a tattoo on the chest."
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/9-5167975.png/:/rs=w:370,cg:true,m",
+      "alt": "Before and after body sculpting transformation."
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/4-54d7834.png/:/rs=w:370,cg:true,m",
+      "alt": "Body sculpting procedure on a man&#39;s torso."
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/7-1856224.png/:/rs=w:370,cg:true,m",
+      "alt": ""
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/9-5ba1588.png/:/rs=w:370,cg:true,m",
+      "alt": ""
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/4-c36da2f.png/:/rs=w:370,cg:true,m",
+      "alt": ""
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/7-920c6e4.png/:/rs=w:370,cg:true,m",
+      "alt": ""
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/2-9c4260f.png/:/rs=w:370,cg:true,m",
+      "alt": ""
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/8-a27970c.png/:/rs=w:370,cg:true,m",
+      "alt": ""
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/5-dcc0646.png/:/rs=w:370,cg:true,m",
+      "alt": ""
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/3-3e24cff.png/:/rs=w:370,cg:true,m",
+      "alt": ""
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/10-2639021.png/:/rs=w:370,cg:true,m",
+      "alt": ""
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/1-2207b94.png/:/rs=w:370,cg:true,m",
+      "alt": ""
+    },
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/3-4a2865b.jpg/:/rs=w:370,cg:true,m",
+      "alt": ""
+    }
+  ]
+}

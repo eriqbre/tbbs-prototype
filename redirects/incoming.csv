@@ -1,0 +1,5 @@
+from_path,to_path
+# One redirect per row. Paths only (no domain), leading slash required.
+# Example:
+# /old-go-daddy-page,/liposuction-360
+# /blog/old-post,/resources

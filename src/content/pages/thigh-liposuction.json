@@ -1,0 +1,119 @@
+{
+  "path": "/thigh-liposuction",
+  "slug": "thigh-liposuction",
+  "title": "Thigh Liposuction | Tampa Bay Body Sculpting",
+  "description": "Discover expert Thigh Liposuction in Tampa Bay for body contouring and cosmetic surgery. Book your consultation today!",
+  "ogImage": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/shutterstock_263340653-b2373a9.jpg",
+  "h1": "Thigh Liposuction",
+  "hero": {
+    "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/blob-f945845.png/:/rs=w:600,h:300,cg:true,m/cr=w:600,h:300",
+    "alt": "thigh liposuction",
+    "localSrc": "/images/blob-f945845.png"
+  },
+  "sections": [
+    {
+      "type": "section",
+      "heading": null,
+      "level": null,
+      "blocks": [
+        {
+          "type": "h4",
+          "text": "Thigh Liposuction in Tampa Bay"
+        },
+        {
+          "type": "p",
+          "text": "Thigh Liposuction is a body contouring procedure aimed at eliminating stubborn fat from the inner thighs, outer thighs, or the overall thigh area to achieve slimmer, smoother leg contours. This cosmetic surgery helps enhance body proportions while accentuating natural feminine curves and definition.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Utilizing advanced liposuction techniques, excess fat is meticulously removed to contour the thighs, resulting in a more sculpted appearance. Thigh Liposuction is particularly effective for areas resistant to diet and exercise and can be combined with additional body contouring procedures for more comprehensive results.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "At Tampa Bay Body Sculpting, we collaborate with a carefully selected network of Board-Certified Cosmetic Surgeons in Florida, who are experienced in advanced female body contouring procedures. Each treatment plan is tailored to your anatomy, desired shape, and aesthetic goals.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Thigh Liposuction",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Start Your Complimentary Virtual Consultation",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Frequently Asked Questions",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Please reach us at info@tampabaybodysculpting.com if you cannot find an answer to your question.",
+          "links": [
+            {
+              "href": "mailto:info@tampabaybodysculpting.com?subject=Virtual%20Consultation",
+              "text": "info@tampabaybodysculpting.com"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Women with stubborn fat in the inner or outer thighs who are looking for slimmer, more contoured legs may be good candidates. Ideal candidates are in good overall health and close to their target weight.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Thigh Liposuction can target the inner thighs, outer thighs, front thighs, and areas around the knees depending on your contouring goals.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Yes. Thigh Liposuction is commonly combined with procedures such as Lipo 360, a Brazilian Butt Lift (BBL), or Waist Contouring to further enhance overall body proportions and feminine contours.",
+          "links": []
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "ctas": [
+    {
+      "href": "https://hipaa.jotform.com/261329129717057",
+      "text": "contact us"
+    },
+    {
+      "href": "https://hipaa.jotform.com/212097230845050",
+      "text": "START CONSULTATION"
+    }
+  ],
+  "testimonials": [],
+  "images": [
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/blob-f945845.png/:/rs=w:600,h:300,cg:true,m/cr=w:600,h:300",
+      "alt": "thigh liposuction",
+      "localSrc": "/images/blob-f945845.png"
+    }
+  ],
+  "routeKey": "thigh-liposuction",
+  "faqs": [
+    {
+      "q": "Who is a candidate for Thigh Liposuction?",
+      "a": "Women with stubborn fat in the inner or outer thighs who are looking for slimmer, more contoured legs may be good candidates. Ideal candidates are in good overall health and close to their target weight."
+    },
+    {
+      "q": "What areas can be treated with Thigh Liposuction?",
+      "a": "Thigh Liposuction can target the inner thighs, outer thighs, front thighs, and areas around the knees depending on your contouring goals."
+    },
+    {
+      "q": "Can Thigh Liposuction be combined with other procedures?",
+      "a": "Yes. Thigh Liposuction is commonly combined with procedures such as Lipo 360, a Brazilian Butt Lift (BBL), or Waist Contouring to further enhance overall body proportions and feminine contours."
+    }
+  ]
+}

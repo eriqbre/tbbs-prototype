@@ -1,0 +1,479 @@
+@import "tailwindcss";
+
+:root {
+  --color-bg: #000000;
+  --color-bg-elevated: #111111;
+  --color-bg-soft: #0a0a0a;
+  --color-bg-black: #000000;
+  --color-text: #ffffff;
+  --color-text-muted: #bdbdbd;
+  --color-text-body: #919191;
+  --color-text-dim: #a9a9a9;
+  --color-heading-light: #e2e2e2;
+  --color-heading-soft: #f7f7f7;
+  --color-heading-mint: #cdfef2;
+  --color-accent: #65ebc9;
+  --color-accent-strong: #7af0d3;
+  --color-accent-soft: rgba(101, 235, 201, 0.14);
+  --color-border: rgba(255, 255, 255, 0.12);
+  --color-border-strong: rgba(255, 255, 255, 0.22);
+  --color-on-accent: #111111;
+  --font-display: var(--font-lato), Arial, sans-serif;
+  --font-serif: var(--font-lusitana), Georgia, "Times New Roman", serif;
+  --font-body: var(--font-lusitana), Georgia, "Times New Roman", serif;
+  --font-ui: var(--font-cantarell), Arial, sans-serif;
+  --font-accent: var(--font-poppins), Arial, sans-serif;
+  --max-width: 1100px;
+  --header-height: 84px;
+}
+
+@theme inline {
+  --color-background: var(--color-bg);
+  --color-foreground: var(--color-text);
+  --font-sans: var(--font-body);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  background: #000;
+}
+
+body {
+  margin: 0;
+  background: #000;
+  color: var(--color-text);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.625;
+  -webkit-font-smoothing: antialiased;
+}
+
+main {
+  font-family: var(--font-body);
+  font-size: 16px;
+}
+
+.font-ui {
+  font-family: var(--font-ui);
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+  line-height: 1.25;
+}
+
+p {
+  margin: 0;
+}
+
+.container {
+  width: min(100% - 2.5rem, var(--max-width));
+  margin-inline: auto;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.9rem 1.55rem;
+  border-radius: 0;
+  font-family: var(--font-ui);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  transition: background-color 0.25s ease, color 0.25s ease, transform 0.25s ease;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+}
+
+.btn-primary {
+  background: var(--color-accent);
+  color: var(--color-on-accent);
+}
+
+.btn-primary:hover {
+  background: var(--color-accent-strong);
+}
+
+.btn-dark {
+  background: #000;
+  color: #fff;
+}
+
+.btn-dark:hover {
+  background: #222;
+}
+
+.btn-outline {
+  border: 1px solid currentColor;
+  background: transparent;
+}
+
+.section,
+.section-black {
+  padding: 5rem 0;
+  background: #000;
+}
+
+.section-soft {
+  background: #0a0a0a;
+}
+
+.section-accent {
+  background: var(--color-accent);
+  color: var(--color-on-accent);
+  padding: 5rem 0;
+}
+
+/* HeadingBeta — section titles (Lato, uppercase, teal) */
+.section-title {
+  font-family: var(--font-display);
+  font-size: clamp(1.875rem, 3.2vw, 2.375rem);
+  font-weight: 400;
+  line-height: 1.4;
+  margin-bottom: 2.5rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--color-accent);
+  text-align: center;
+  text-wrap: balance;
+}
+
+.section-title-white,
+.section-title-light {
+  color: var(--color-heading-light);
+}
+
+/* Difference block intro (Lusitana 22px, centered) */
+.section-kicker {
+  font-family: var(--font-serif);
+  font-size: 1.375rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: var(--color-heading-soft);
+  text-align: center;
+  margin-bottom: 1.25rem;
+}
+
+.section-subtitle-accent {
+  font-family: var(--font-serif);
+  color: var(--color-heading-soft);
+  text-align: center;
+  text-transform: none;
+  letter-spacing: normal;
+  font-size: 1.375rem;
+  font-weight: 400;
+  margin-bottom: 1.25rem;
+}
+
+.section-lead {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  line-height: 1.625;
+  color: rgba(17, 17, 17, 0.85);
+  max-width: 42rem;
+}
+
+.section-accent .section-title {
+  color: var(--color-on-accent);
+}
+
+.inline-link {
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* About split */
+.about-split {
+  display: grid;
+  grid-template-columns: 1fr 1.15fr;
+  gap: 2.5rem;
+  align-items: center;
+}
+
+.about-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  filter: grayscale(1);
+}
+
+.about-subtitle {
+  font-family: var(--font-serif);
+  font-size: 1.375rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: var(--color-heading-mint);
+  margin-bottom: 1rem;
+}
+
+.about-copy {
+  display: grid;
+  gap: 1rem;
+  font-family: var(--font-serif);
+  color: var(--color-text-body);
+  font-size: 1rem;
+  line-height: 1.625;
+}
+
+.difference-intro {
+  max-width: 48rem;
+  margin: 0 auto;
+  text-align: center;
+  font-family: var(--font-serif);
+  color: var(--color-text-body);
+  font-size: 1rem;
+  line-height: 1.625;
+}
+
+/* Feature grid (Why Choose) */
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2.75rem 2rem;
+}
+
+.feature-card {
+  text-align: center;
+}
+
+.feature-card-title {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  text-transform: none;
+  margin-bottom: 1rem;
+  line-height: 1.25;
+}
+
+/* HeadingGamma — difference column titles */
+.feature-card-title--accent {
+  color: var(--color-accent);
+  font-size: clamp(1.75rem, 2.5vw, 1.875rem);
+}
+
+/* HeadingDelta — why-choose card titles */
+.feature-card-title--white {
+  color: var(--color-heading-soft);
+  font-size: 1.375rem;
+}
+
+.feature-card-body {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--color-text-body);
+  line-height: 1.625;
+  max-width: 22rem;
+  margin-inline: auto;
+}
+
+/* Procedure cards with images */
+.procedure-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2.75rem 2rem;
+}
+
+.procedure-card {
+  text-align: center;
+}
+
+.procedure-card-title {
+  font-family: var(--font-serif);
+  font-size: 1.375rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: var(--color-heading-light);
+  margin-bottom: 1rem;
+}
+
+.procedure-card-media {
+  display: block;
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+
+.procedure-card-image {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  filter: grayscale(1);
+  transition: transform 0.45s ease, filter 0.45s ease;
+}
+
+.procedure-card-media:hover .procedure-card-image {
+  transform: scale(1.03);
+  filter: grayscale(0.35);
+}
+
+.procedure-card-body,
+.rich-text {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  line-height: 1.625;
+  color: var(--color-text-body);
+  text-align: center;
+}
+
+.procedure-card-body .inline-link,
+.rich-text .inline-link,
+.about-copy .inline-link {
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.travel-list {
+  list-style: disc;
+  padding-left: 1.25rem;
+  color: var(--color-text-body);
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  line-height: 1.625;
+}
+
+.travel-list li + li {
+  margin-top: 0.25rem;
+}
+
+/* Generic prose used on inner pages */
+.prose-block {
+  display: grid;
+  gap: 1rem;
+  max-width: 48rem;
+  margin-inline: auto;
+}
+
+.prose-block h3,
+.prose-block h4 {
+  font-family: var(--font-serif);
+  color: #fff;
+  font-weight: 400;
+}
+
+.prose-block p,
+.prose-block li {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  line-height: 1.625;
+  color: var(--color-text-body);
+}
+
+.prose-block h3 {
+  font-size: clamp(1.75rem, 2.5vw, 1.875rem);
+  color: var(--color-accent);
+}
+
+.prose-block h4 {
+  font-size: 1.375rem;
+  color: var(--color-heading-light);
+}
+
+.prose-block a {
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.grid-cards {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin-top: 2rem;
+}
+
+@media (max-width: 900px) {
+  .about-split,
+  .feature-grid,
+  .procedure-grid,
+  .grid-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .feature-grid,
+  .procedure-grid {
+    gap: 2rem;
+  }
+}
+
+@media (min-width: 701px) and (max-width: 900px) {
+  .feature-grid,
+  .procedure-grid,
+  .grid-cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .section,
+  .section-black,
+  .section-accent {
+    padding: 3.5rem 0;
+  }
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes soft-zoom {
+  from {
+    transform: scale(1.04);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+.animate-fade-up {
+  animation: fade-up 0.8s ease both;
+}
+
+.animate-fade-up-delay {
+  animation: fade-up 0.9s ease 0.12s both;
+}
+
+.animate-fade-up-delay-2 {
+  animation: fade-up 0.9s ease 0.22s both;
+}
+
+.hero-media {
+  animation: soft-zoom 1.4s ease both;
+  filter: grayscale(1);
+}

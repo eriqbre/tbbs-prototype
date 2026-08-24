@@ -1,0 +1,92 @@
+{
+  "path": "/adult-circumcision",
+  "slug": "adult-circumcision",
+  "title": "Adult Circumcision",
+  "description": "Discover expert adult circumcision services for medical or cosmetic reasons. Schedule your consultation today!",
+  "ogImage": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/shutterstock_263340653-b2373a9.jpg",
+  "h1": "adult circumcision",
+  "hero": {
+    "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/blob-ea57644.png/:/cr=t:30%25,l:0%25,w:100%25,h:40%25/rs=w:600,h:300,cg:true",
+    "alt": "Man adjusting his wet shorts, showing water stains."
+  },
+  "sections": [
+    {
+      "type": "section",
+      "heading": null,
+      "level": null,
+      "blocks": [
+        {
+          "type": "h4",
+          "text": "What is Adult Circumcision?"
+        },
+        {
+          "type": "p",
+          "text": "Adult circumcision is a surgical procedure that involves the removal of the foreskin from the penis for medical, hygiene, cosmetic, or personal reasons. The procedure is typically completed within about an hour and may be performed using local or general anesthesia depending on the patient\u2019s needs and the surgeon\u2019s recommendation.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Ready to take the next step?",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Start Your Complimentary Virtual Consultation",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Frequently Asked Questions",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Please reach us at info@tampabaybodysculpting.com if you cannot find an answer to your question.",
+          "links": [
+            {
+              "href": "mailto:info@tampabaybodysculpting.com?subject=Virtual%20Consultation%20Request",
+              "text": "info@tampabaybodysculpting.com"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Healthy adult men seeking circumcision for medical, cosmetic, hygiene, or personal reasons may be candidates for the procedure. A consultation is recommended to determine the best treatment plan for your needs.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Men may choose adult circumcision for medical, hygiene, cosmetic, religious, or personal reasons. Some patients also seek the procedure to address discomfort, tight foreskin, or recurring irritation.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Most patients experience mild swelling and discomfort during the first several days after surgery. Light activities can usually be resumed within a few days, while full healing generally occurs over several weeks.",
+          "links": []
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "ctas": [
+    {
+      "href": "https://hipaa.jotform.com/261329129717057",
+      "text": "contact us"
+    },
+    {
+      "href": "https://hipaa.jotform.com/212097230845050",
+      "text": "START CONSULTATION"
+    }
+  ],
+  "testimonials": [],
+  "images": [
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/blob-ea57644.png/:/cr=t:30%25,l:0%25,w:100%25,h:40%25/rs=w:600,h:300,cg:true",
+      "alt": "Man adjusting his wet shorts, showing water stains."
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "path": "/",
+  "slug": "home",
+  "title": "Tampa Bay Body Sculpting | Cosmetic Surgery, Lipo 360 & Tummy Tuck",
+  "description": "Considering cosmetic surgery in Tampa? Explore Lipo 360, tummy tuck, breast surgery, body contouring, and male body sculpting. Schedule your free consultation.",
+  "ogImage": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/shutterstock_263340653-b2373a9.jpg",
+  "h1": "Cosmetic Surgery guidance in Tampa bay",
+  "hero": {
+    "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/blob-d88ea83.png/:/cr=t:0%25,l:0%25,w:100%25,h:50%25/rs=w:600,h:300,cg:true",
+    "alt": "Male and female Lipo 360 body contouring in Tampa",
+    "localSrc": "/images/blob-d88ea83.png"
+  },
+  "sections": [
+    {
+      "type": "section",
+      "heading": null,
+      "level": null,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Lipo 360, Tummy Tuck, Breast Procedures, Arm and Thigh Liposuction, and Male Body Sculpting.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "About Tampa Bay Body Sculpting",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h4",
+          "text": "Personalized Cosmetic Surgery Guidance in Tampa Bay"
+        },
+        {
+          "type": "p",
+          "text": "At Tampa Bay Body Sculpting, we provide a personalized, concierge approach to cosmetic surgery. Our mission is to help you confidently navigate your transformation with trusted cosmetic surgery providers, individualized recommendations, transparent pricing, and dedicated support from your complimentary consultation through recovery.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Whether you're considering Lipo 360, body contouring, a tummy tuck, Brazilian Butt Lift (BBL), breast augmentation, chin and neck liposuction, or male body contouring, we help you understand your options and choose the procedures that best align with your goals. Through our trusted network of experienced, board-certified cosmetic surgeons, we simplify the process so you can focus on achieving natural-looking, confidence-building results.",
+          "links": [
+            {
+              "href": "/liposuction-360",
+              "text": "Lipo 360"
+            },
+            {
+              "href": "/tummy-tuck",
+              "text": "tummy tuck"
+            },
+            {
+              "href": "/brazilian-butt-lift-bbl",
+              "text": "Brazilian Butt Lift (BBL)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "The Tampa Bay Body Sculpting Difference",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "Why Patients Choose Tampa Bay Body Sculpting"
+        },
+        {
+          "type": "p",
+          "text": "Unlike a traditional cosmetic surgery practice, Tampa Bay Body Sculpting provides a concierge experience that helps you navigate every step of your transformation. We educate, guide, coordinate, and support you throughout the process so you can move forward with confidence.",
+          "links": []
+        },
+        {
+          "type": "h3",
+          "text": "Personalized Care"
+        },
+        {
+          "type": "h3",
+          "text": "Trusted Cosmetic Surgery Network"
+        },
+        {
+          "type": "p",
+          "text": "Every cosmetic surgery journey is unique. We take the time to understand your goals, educate you on your options, and provide personalized recommendations tailored to your body, lifestyle, and desired outcome. From your complimentary virtual consultation through recovery, we're here to guide you every step of the way.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "We partner with experienced, board-certified cosmetic surgeons who are known for delivering safe, natural-looking results. Whether you're considering Lipo 360, a tummy tuck, breast surgery, body contouring, or facial procedures, we'll help you find the right approach for your goals with confidence and transparency.",
+          "links": []
+        },
+        {
+          "type": "h3",
+          "text": "Concierge Experience"
+        },
+        {
+          "type": "p",
+          "text": "Our concierge approach makes cosmetic surgery simple and stress-free. We provide transparent pricing, financing guidance, travel resources for out-of-town patients, and ongoing support before and after your procedure, ensuring you feel informed, comfortable, and confident throughout your transformation.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "why patients choose Tampa Bay Body Sculpting",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h4",
+          "text": "Personalized Treatment Planning"
+        },
+        {
+          "type": "h4",
+          "text": "Complimentary Virtual Consultations"
+        },
+        {
+          "type": "h4",
+          "text": "Trusted Cosmetic Surgery Network"
+        },
+        {
+          "type": "p",
+          "text": "Every patient receives recommendations tailored to their anatomy, goals, and lifestyle.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "We work with experienced cosmetic surgery providers who share our commitment to patient safety and natural-looking results.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Start your journey from the comfort of your home with a personalized consultation.",
+          "links": []
+        },
+        {
+          "type": "h4",
+          "text": "Transparent Pricing"
+        },
+        {
+          "type": "h4",
+          "text": "Serving Tampa Bay and Beyond"
+        },
+        {
+          "type": "p",
+          "text": "Clear procedure information, financing options, and no hidden surprises.",
+          "links": []
+        },
+        {
+          "type": "h4",
+          "text": "Patient Concierge Support"
+        },
+        {
+          "type": "p",
+          "text": "We're with you before, during, and after surgery to answer questions and help coordinate your experience.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Patients travel from throughout Florida and across the country for cosmetic surgery.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Popular Cosmetic Surgery Procedures",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h4",
+          "text": "Lipo 360"
+        },
+        {
+          "type": "h4",
+          "text": "Breast Augmentation"
+        },
+        {
+          "type": "h4",
+          "text": "Tummy Tuck"
+        },
+        {
+          "type": "p",
+          "text": "Sculpt your waistline with comprehensive circumferential liposuction designed to target stubborn fat around the abdomen, flanks, and back. Lipo 360 creates a smoother, more defined silhouette while enhancing your body's natural contours for balanced, natural-looking results.",
+          "links": [
+            {
+              "href": "/liposuction-360",
+              "text": "Lipo 360"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Restore a flatter, firmer abdomen by removing excess skin and tightening weakened abdominal muscles. Whether after pregnancy or significant weight loss, a tummy tuck can dramatically improve your midsection and help you feel more confident in your appearance.",
+          "links": [
+            {
+              "href": "/tummy-tuck",
+              "text": "tummy tuck"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Enhance your confidence with breast augmentation tailored to your desired size, shape, and overall proportions. Whether using implants or fat transfer, our trusted cosmetic surgeons help create balanced, natural-looking results that complement your body.",
+          "links": [
+            {
+              "href": "/breast-augmentation",
+              "text": "implants"
+            },
+            {
+              "href": "/breast-rejuvenation",
+              "text": "fat transfer"
+            }
+          ]
+        },
+        {
+          "type": "h4",
+          "text": "Brazilian Butt Lift"
+        },
+        {
+          "type": "h4",
+          "text": "Chin & Neck Liposuction"
+        },
+        {
+          "type": "p",
+          "text": "Enhance your curves using your body's own fat with a Brazilian Butt Lift. By combining liposuction with fat transfer, a BBL creates fuller, more balanced contours while maintaining a natural appearance.",
+          "links": [
+            {
+              "href": "/brazilian-butt-lift-bbl",
+              "text": "Brazilian Butt Lift"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Refine your profile by removing stubborn fat beneath the chin and along the neck for a more sculpted appearance. Chin and neck liposuction can improve jawline definition and create a slimmer, more youthful facial contour.",
+          "links": [
+            {
+              "href": "/female-chin-liposuction",
+              "text": "Chin and neck liposuction"
+            }
+          ]
+        },
+        {
+          "type": "h4",
+          "text": "Male Body Sculpting"
+        },
+        {
+          "type": "p",
+          "text": "Designed specifically for men, male body sculpting enhances muscle definition while removing stubborn fat from areas such as the abdomen, chest, flanks, and back. Whether your goal is a leaner physique or a more athletic appearance, personalized treatment options help create natural, masculine contours.",
+          "links": [
+            {
+              "href": "/men",
+              "text": "abdomen, chest, flanks, and back"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "patient testamonials",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h4",
+          "text": "\u2605\u2605\u2605\u2605\u2605"
+        },
+        {
+          "type": "p",
+          "text": "Jene\u00e9 is an incredible advocate for my surgery, showcasing her expertise in cosmetic procedures, including body contouring techniques such as liposuction and the Brazilian butt lift. She has been holding my hand every step of the way, answering all of my questions, finding out what I need, and being very transparent about the process. I highly recommend her for anyone seeking natural-looking cosmetic surgery, whether it's a tummy tuck or male body contouring, in the Tampa Bay Body Sculpting community. 10/10 would recommend - Amber H.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "I could write an entire book about Tampa Bay Body Sculpting; they are incredibly sweet and patient. Their expertise in body contouring and cosmetic surgery, including procedures like Brazilian butt lifts and liposuction, is evident as they always check on you. They will call you back in a drop of a dime, showcasing their professionalism. I give them a 20/20, hands down, especially for their commitment to providing natural-looking cosmetic surgery, whether it's male body contouring or a tummy tuck.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "This was the best place I could've chosen for my liposuction and body contouring, thanks to their expertise in cosmetic surgery. I love the results; they look natural and fit perfectly, just like I hoped for with my tummy tuck. The staff was attentive and had great personalities that made me feel comfortable throughout the process. Thank you! - Grace J.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "The office is extremely responsive and will even reply late in the evening after business hours. With their expertise in cosmetic surgery, including body contouring procedures like Brazilian butt lift and liposuction, I\u2019m very pleased so far and can\u2019t wait to see my final results from Tampa Bay Body Sculpting - Courtney S. I'm also considering male body contouring options and a tummy tuck in the future.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "The communication from the first day I reached out to Tampa Bay Body Sculpting was unreal. Their expertise in body contouring and cosmetic surgery shone through as they answered all my questions (even after hours and on weekends). I felt so comfortable discussing options like the Brazilian butt lift, liposuction, and tummy tuck, and they went over the procedures thoroughly to ensure I was well-informed about my choice for natural-looking cosmetic surgery. - Amira P.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Everyone there was quick to respond to communications, answering my questions about their expertise in cosmetic surgery, including procedures like body contouring, Brazilian butt lift, and liposuction. This responsiveness put my mind at ease regarding the natural-looking results I was considering, such as a tummy tuck or male body contouring. - Melissa M.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Explore Cosmetic Surgery Procedures",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Whether you're researching your options or ready to schedule a consultation, explore our comprehensive guides for today's most popular cosmetic surgery procedures.",
+          "links": []
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Lipo 360",
+            "Tummy Tuck",
+            "Breast Augmentation",
+            "Breast Lift",
+            "Breast Reduction",
+            "BBL",
+            "Chin Liposuction",
+            "Arm Liposuction",
+            "Thigh Liposuction",
+            "Male Body Sculpting",
+            "Gynecomastia"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Why Patients Travel to Tampa Bay body sculpting for cosmetic",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h4",
+          "text": "Patients Visit Us From Across Florida and Beyond"
+        },
+        {
+          "type": "p",
+          "text": "Whether you're traveling from Miami, Orlando, Jacksonville, Sarasota, Clearwater, St. Petersburg, or another state, our team helps simplify your experience.",
+          "links": [
+            {
+              "href": "/travel-information",
+              "text": "traveling"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "We provide guidance on:",
+          "links": []
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Virtual consultations",
+            "Financing options",
+            "Travel planning",
+            "Recovery resources",
+            "Local accommodations",
+            "Follow-up care"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Educational Resources",
+      "level": 2,
+      "blocks": []
+    },
+    {
+      "type": "section",
+      "heading": "Your Cosmetic Surgery Journey Starts Here",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Whether you're considering liposuction, a tummy tuck, breast surgery, facial rejuvenation, or another cosmetic procedure, we're here to help you explore your options with confidence.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Schedule your complimentary virtual consultation and discover the personalized, concierge experience that sets Tampa Bay Body Sculpting apart.",
+          "links": []
+        }
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "Personalized Cosmetic Surgery Guidance in Tampa Bay",
+      "description": "At Tampa Bay Body Sculpting, we provide a personalized, concierge approach to cosmetic surgery. Our mission is to help you confidently navigate your transformation with trusted cosmetic surgery providers, individualized recommendations, transparent pricing, and dedicated support from your complimentary consultation through recovery.",
+      "href": "/liposuction-360"
+    },
+    {
+      "title": "Personalized Care",
+      "description": "Every cosmetic surgery journey is unique. We take the time to understand your goals, educate you on your options, and provide personalized recommendations tailored to your body, lifestyle, and desired outcome. From your complimentary virtual consultation through recovery, we're here to guide you every step of the way.",
+      "href": "/liposuction-360"
+    },
+    {
+      "title": "Trusted Cosmetic Surgery Network",
+      "description": "Every cosmetic surgery journey is unique. We take the time to understand your goals, educate you on your options, and provide personalized recommendations tailored to your body, lifestyle, and desired outcome. From your complimentary virtual consultation through recovery, we're here to guide you every step of the way.",
+      "href": "/liposuction-360"
+    },
+    {
+      "title": "Concierge Experience",
+      "description": "Our concierge approach makes cosmetic surgery simple and stress-free. We provide transparent pricing, financing guidance, travel resources for out-of-town patients, and ongoing support before and after your procedure, ensuring you feel informed, comfortable, and confident throughout your transformation.",
+      "href": "/liposuction-360"
+    },
+    {
+      "title": "Personalized Treatment Planning",
+      "description": "Every patient receives recommendations tailored to their anatomy, goals, and lifestyle.",
+      "href": "/liposuction-360"
+    },
+    {
+      "title": "Complimentary Virtual Consultations",
+      "description": "Every patient receives recommendations tailored to their anatomy, goals, and lifestyle.",
+      "href": "/liposuction-360"
+    },
+    {
+      "title": "Transparent Pricing",
+      "description": "Clear procedure information, financing options, and no hidden surprises.",
+      "href": "/liposuction-360"
+    },
+    {
+      "title": "Serving Tampa Bay and Beyond",
+      "description": "Clear procedure information, financing options, and no hidden surprises.",
+      "href": "/liposuction-360"
+    },
+    {
+      "title": "Patient Concierge Support",
+      "description": "We're with you before, during, and after surgery to answer questions and help coordinate your experience.",
+      "href": "/liposuction-360"
+    },
+    {
+      "title": "Lipo 360",
+      "description": "Sculpt your waistline with comprehensive circumferential liposuction designed to target stubborn fat around the abdomen, flanks, and back. Lipo 360 creates a smoother, more defined silhouette while enhancing your body's natural contours for balanced, natural-looking results.",
+      "href": "/liposuction-360"
+    },
+    {
+      "title": "Breast Augmentation",
+      "description": "Sculpt your waistline with comprehensive circumferential liposuction designed to target stubborn fat around the abdomen, flanks, and back. Lipo 360 creates a smoother, more defined silhouette while enhancing your body's natural contours for balanced, natural-looking results.",
+      "href": "/liposuction-360"
+    },
+    {
+      "title": "Tummy Tuck",
+      "description": "Sculpt your waistline with comprehensive circumferential liposuction designed to target stubborn fat around the abdomen, flanks, and back. Lipo 360 creates a smoother, more defined silhouette while enhancing your body's natural contours for balanced, natural-looking results.",
+      "href": "/liposuction-360"
+    },
+    {
+      "title": "Brazilian Butt Lift",
+      "description": "Enhance your curves using your body's own fat with a Brazilian Butt Lift. By combining liposuction with fat transfer, a BBL creates fuller, more balanced contours while maintaining a natural appearance.",
+      "href": "/brazilian-butt-lift-bbl"
+    },
+    {
+      "title": "Chin & Neck Liposuction",
+      "description": "Enhance your curves using your body's own fat with a Brazilian Butt Lift. By combining liposuction with fat transfer, a BBL creates fuller, more balanced contours while maintaining a natural appearance.",
+      "href": "/brazilian-butt-lift-bbl"
+    },
+    {
+      "title": "Male Body Sculpting",
+      "description": "Designed specifically for men, male body sculpting enhances muscle definition while removing stubborn fat from areas such as the abdomen, chest, flanks, and back. Whether your goal is a leaner physique or a more athletic appearance, personalized treatment options help create natural, masculine contours.",
+      "href": "/men"
+    },
+    {
+      "title": "\u2605\u2605\u2605\u2605\u2605",
+      "description": "Jene\u00e9 is an incredible advocate for my surgery, showcasing her expertise in cosmetic procedures, including body contouring techniques such as liposuction and the Brazilian butt lift. She has been holding my hand every step of the way, answering all of my questions, finding out what I need, and being very transparent about the process. I highly recommend her for anyone seeking natural-looking cosmetic surgery, whether it's a tummy tuck or male body contouring, in the Tampa Bay Body Sculpting comm",
+      "href": "/liposuction-360"
+    },
+    {
+      "title": "Patients Visit Us From Across Florida and Beyond",
+      "description": "Whether you're traveling from Miami, Orlando, Jacksonville, Sarasota, Clearwater, St. Petersburg, or another state, our team helps simplify your experience.",
+      "href": "/travel-information"
+    }
+  ],
+  "ctas": [
+    {
+      "href": "https://form.jotform.com/261329129717057",
+      "text": "Start a consultation"
+    },
+    {
+      "href": "https://hipaa.jotform.com/261329129717057",
+      "text": "contact us"
+    },
+    {
+      "href": "https://form.jotform.com/261329129717057",
+      "text": "start a consultation"
+    },
+    {
+      "href": "https://pci.jotform.com/form/212098969425165",
+      "text": "payment"
+    }
+  ],
+  "testimonials": [
+    "Jene\u00e9 is an incredible advocate for my surgery, showcasing her expertise in cosmetic procedures, including body contouring techniques such as liposuction and the Brazilian butt lift. She has been holding my hand every step of the way, answering all of my questions, finding out what I need, and being very transparent about the process. I highly recommend her for anyone seeking natural-looking cosmetic surgery, whether it's a tummy tuck or male body contouring, in the Tampa Bay Body Sculpting community. 10/10 would recommend - Amber H.",
+    "I could write an entire book about Tampa Bay Body Sculpting; they are incredibly sweet and patient. Their expertise in body contouring and cosmetic surgery, including procedures like Brazilian butt lifts and liposuction, is evident as they always check on you. They will call you back in a drop of a dime, showcasing their professionalism. I give them a 20/20, hands down, especially for their commitment to providing natural-looking cosmetic surgery, whether it's male body contouring or a tummy tuck.",
+    "The office is extremely responsive and will even reply late in the evening after business hours. With their expertise in cosmetic surgery, including body contouring procedures like Brazilian butt lift and liposuction, I\u2019m very pleased so far and can\u2019t wait to see my final results from Tampa Bay Body Sculpting - Courtney S. I'm also considering male body contouring options and a tummy tuck in the future.",
+    "The communication from the first day I reached out to Tampa Bay Body Sculpting was unreal. Their expertise in body contouring and cosmetic surgery shone through as they answered all my questions (even after hours and on weekends). I felt so comfortable discussing options like the Brazilian butt lift, liposuction, and tummy tuck, and they went over the procedures thoroughly to ensure I was well-informed about my choice for natural-looking cosmetic surgery. - Amira P.",
+    "Our team at Tampa Bay Body Sculpting is dedicated to guiding you through every step of your body contouring journey with care and expertise in cosmetic surgery. Whether you're interested in a Brazilian butt lift, liposuction, male body contouring, or a tummy tuck, we ensure you achieve natural-looking results."
+  ],
+  "images": [
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/blob-d88ea83.png/:/cr=t:0%25,l:0%25,w:100%25,h:50%25/rs=w:600,h:300,cg:true",
+      "alt": "Male and female Lipo 360 body contouring in Tampa",
+      "localSrc": "/images/blob-d88ea83.png"
+    }
+  ],
+  "routeKey": "",
+  "faqs": []
+}

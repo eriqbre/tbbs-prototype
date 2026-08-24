@@ -1,0 +1,95 @@
+{
+  "path": "/male-chin-liposuction",
+  "slug": "male-chin-liposuction",
+  "title": "Male Chin Liposuction",
+  "description": "Explore Male Chin Liposuction at Tampa Bay Body Sculpting for a defined jawline &amp; excellent results. Book your consultation today!",
+  "ogImage": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/shutterstock_263340653-b2373a9.jpg",
+  "h1": "Male Chin Liposuction",
+  "hero": {
+    "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/blob-4476c7a.png/:/cr=t:30%25,l:0%25,w:100%25,h:40%25/rs=w:600,h:300,cg:true",
+    "alt": "Close-up of a man&#39;s lower face with slight facial hair.",
+    "localSrc": "/images/blob-4476c7a.png"
+  },
+  "sections": [
+    {
+      "type": "section",
+      "heading": null,
+      "level": null,
+      "blocks": [
+        {
+          "type": "h4",
+          "text": "Who is a candidate for Male Chin Liposuction?"
+        },
+        {
+          "type": "p",
+          "text": "Men with excess fat beneath the chin or along the jawline who are looking for a more defined facial profile may be good candidates. Ideal candidates are in good overall health and have good skin elasticity.Many men consider a tummy tuck after significant weight loss or when skin laxity prevents the midsection from looking toned and athletic. In some cases, a Male Tummy Tuck may also be combined with liposuction for more comprehensive body contouring results.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Ready to take the next step?",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Start Your Complimentary Virtual Consultation",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Frequently Asked Questions",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Please reach us at info@tampabaybodysculpting.com if you cannot find an answer to your question.",
+          "links": [
+            {
+              "href": "mailto:info@tampabaybodysculpting.com?subject=Virtual%20Consultation%20Request",
+              "text": "info@tampabaybodysculpting.com"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Results are typically long-lasting as long as a stable weight is maintained. Once the fat cells are removed, they do not return.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Incisions used for chin liposuction are very small and are typically placed in discreet areas to minimize visible scarring.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Most patients experience mild swelling and bruising for the first several days after surgery. Many return to light daily activities within a few days, with continued improvement over the following weeks.",
+          "links": []
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "ctas": [
+    {
+      "href": "https://hipaa.jotform.com/261329129717057",
+      "text": "contact us"
+    },
+    {
+      "href": "https://hipaa.jotform.com/212097230845050",
+      "text": "START CONSULTATION"
+    }
+  ],
+  "testimonials": [],
+  "images": [
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/blob-4476c7a.png/:/cr=t:30%25,l:0%25,w:100%25,h:40%25/rs=w:600,h:300,cg:true",
+      "alt": "Close-up of a man&#39;s lower face with slight facial hair.",
+      "localSrc": "/images/blob-4476c7a.png"
+    }
+  ],
+  "routeKey": "male-chin-liposuction"
+}

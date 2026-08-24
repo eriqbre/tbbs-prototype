@@ -1,0 +1,102 @@
+{
+  "path": "/breast-implant-exchange",
+  "slug": "breast-implant-exchange",
+  "title": "Breast Implant Exchange",
+  "description": "Expert breast implant exchange services in Tampa Bay, enhancing comfort and aesthetics with personalized care.",
+  "ogImage": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/shutterstock_263340653-b2373a9.jpg",
+  "h1": "Breast Implant Exchange",
+  "hero": {
+    "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/blob-0205933.png/:/rs=w:600,h:300,cg:true,m/cr=w:600,h:300",
+    "alt": "Woman in white bra performing a breast self-exam."
+  },
+  "sections": [
+    {
+      "type": "section",
+      "heading": null,
+      "level": null,
+      "blocks": [
+        {
+          "type": "h4",
+          "text": "Breast Implant Exchange in Tampa Bay"
+        },
+        {
+          "type": "p",
+          "text": "Breast Implant Exchange is a cosmetic breast procedure designed to replace existing breast implants to restore appearance, change implant size, improve comfort, or address concerns such as implant aging, rupture, or capsular contracture. This procedure helps refresh breast shape and achieve more balanced, natural-looking feminine results.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Women may choose Breast Implant Exchange for a variety of reasons, including changing implant size, updating older implants, correcting asymmetry, or improving the overall appearance of previous breast augmentation results. Depending on your goals, the procedure may also be combined with a Breast Lift to further enhance breast position and contour.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "At Tampa Bay Body Sculpting, we work with a carefully selected network of Board-Certified Cosmetic Surgeons in Florida experienced in advanced breast revision and implant exchange procedures. Every treatment plan is personalized based on your anatomy, current implants, and desired aesthetic goals.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Ready to take the next step?",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Start Your Complimentary Virtual Consultation",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "heading": "Frequently Asked Questions",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Please reach us at info@tampabaybodysculpting.com if you cannot find an answer to your question.",
+          "links": [
+            {
+              "href": "mailto:info@tampabaybodysculpting.com?subject=Virtual%20Consultation",
+              "text": "info@tampabaybodysculpting.com"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Women looking to replace older breast implants, change implant size, improve breast shape, or address implant-related concerns may be good candidates for Breast Implant Exchange surgery.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Common reasons include changing implant size, updating aging implants, correcting asymmetry, addressing implant rupture, or improving the appearance of previous breast augmentation results.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Yes. Many women combine Breast Implant Exchange with a Breast Lift to improve breast position, firmness, and overall contour.",
+          "links": []
+        }
+      ]
+    }
+  ],
+  "cards": [],
+  "ctas": [
+    {
+      "href": "https://hipaa.jotform.com/261329129717057",
+      "text": "contact us"
+    },
+    {
+      "href": "https://hipaa.jotform.com/212097230845050",
+      "text": "START CONSULTATION"
+    }
+  ],
+  "testimonials": [],
+  "images": [
+    {
+      "src": "https://img1.wsimg.com/isteam/ip/63a9ae1f-fda4-44c0-addf-b31927ec5222/blob-0205933.png/:/rs=w:600,h:300,cg:true,m/cr=w:600,h:300",
+      "alt": "Woman in white bra performing a breast self-exam."
+    }
+  ]
+}
